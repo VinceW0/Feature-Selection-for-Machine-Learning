@@ -1,5 +1,6 @@
 # Feature-Selection-for-Machine-Learning
-Feature Selection for Machine Learning
+
+*Examples of feature selection techniques:*
 
 ### Filter Methods:
 
