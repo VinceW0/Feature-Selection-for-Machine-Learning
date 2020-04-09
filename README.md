@@ -12,7 +12,7 @@
 
 • Duplicated
 
-### Statistical measures
+### Statistical Measures
 • Fisher score
 
 • Univariate methods
@@ -20,11 +20,10 @@
 • Mutual information
 
 
-#@# Correlation
+### Correlation
 
 +++++++++++++++++++++++++++++++++++
-## Wrapper Methods:
-
+## Wrapper Methods
 • Step forward selection
 
 • Step backward selection
@@ -34,8 +33,7 @@
 • Feature shuffling
 
 +++++++++++++++++++++++++++++++++++
-## Embedded Methods:
-
+## Embedded Methods
 • LASSO
 
 • Decision tree derived importance
