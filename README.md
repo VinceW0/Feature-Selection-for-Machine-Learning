@@ -5,22 +5,21 @@
 +++++++++++++++++++++++++++++++++++
 ## Filter Methods
 
-## Basics
+#### Basics
 • Constant
 
 • Quasi-constant
 
 • Duplicated
 
-### Statistical Measures
+#### Statistical Measures
 • Fisher score
 
 • Univariate methods
 
 • Mutual information
 
-
-### Correlation
+#### Correlation
 
 +++++++++++++++++++++++++++++++++++
 ## Wrapper Methods
