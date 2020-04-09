@@ -3,33 +3,44 @@
 *Examples of feature selection techniques:*
 
 +++++++++++++++++++++++++++++++++++
-### Filter Methods
+## Filter Methods
 
 ## Basics
 • Constant
+
 • Quasi-constant
+
 • Duplicated
 
-## Statistical measures
+### Statistical measures
 • Fisher score
+
 • Univariate methods
+
 • Mutual information
 
-## Correlation
+
+#@# Correlation
 
 +++++++++++++++++++++++++++++++++++
-### Wrapper Methods:
+## Wrapper Methods:
 
 • Step forward selection
+
 • Step backward selection
+
 • Exhaustive search
+
 • Feature shuffling
 
 +++++++++++++++++++++++++++++++++++
-### Embedded Methods:
+## Embedded Methods:
 
 • LASSO
+
 • Decision tree derived importance
+
 • Regression coefficients
+
 • Recursive Feature Elimination
 
