@@ -2,7 +2,8 @@
 
 *Examples of feature selection techniques:*
 
-### Filter Methods:
++++++++++++++++++++++++++++++++++++
+### Filter Methods
 
 ## Basics
 • Constant
@@ -16,7 +17,7 @@
 
 ## Correlation
 
-
++++++++++++++++++++++++++++++++++++
 ### Wrapper Methods:
 
 • Step forward selection
@@ -24,6 +25,7 @@
 • Exhaustive search
 • Feature shuffling
 
++++++++++++++++++++++++++++++++++++
 ### Embedded Methods:
 
 • LASSO
